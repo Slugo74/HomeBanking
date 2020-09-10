@@ -1,0 +1,2 @@
+"admin","admin","00000000","01/01/1753","admin@hotmail.com","admin","admin","$1777770","U$S1000"
+"santiago","lugo","43445216","11/09/2001","slugo@alumno.huergo.edu.ar","slugo","12345","$11722","U$S1412"
